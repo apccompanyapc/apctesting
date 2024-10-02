@@ -85,7 +85,7 @@
           <archive>
             <manifest>
               <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-              <mainClass>org.apc.MainApplication</mainClass> <!-- Change this to your main class -->
+              <mainClass>org.apctesting.MainApplication</mainClass> <!-- Change this to your main class -->
             </manifest>
           </archive>
         </configuration>

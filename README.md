@@ -22,7 +22,6 @@ This project is an API automation framework using Java 17, Cucumber, RestAssured
 ● To run a single test, go to "src/test/resources/features" file select the regarding feature file and click on the "Run" button.
 
 ## Docker
-
 ●  To run the project via Docker, run the docker file under "apc/Dockerfile".
 
 
